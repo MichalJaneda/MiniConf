@@ -1,0 +1,242 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/michal/RubymineProjects/MiniConf/app/models/user.rb": [
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/home/michal/RubymineProjects/MiniConf/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/home/michal/RubymineProjects/MiniConf/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/home/michal/RubymineProjects/MiniConf/app/helpers/conference_helper.rb": [
+        1,
+        null
+      ],
+      "/home/michal/RubymineProjects/MiniConf/app/helpers/index_helper.rb": [
+        1,
+        null
+      ],
+      "/home/michal/RubymineProjects/MiniConf/app/controllers/conference_controller.rb": [
+        1,
+        1,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        0,
+        0,
+        null,
+        0,
+        0,
+        null,
+        0,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        null,
+        1,
+        0,
+        0,
+        0,
+        null,
+        null,
+        null
+      ],
+      "/home/michal/RubymineProjects/MiniConf/app/controllers/application_controller.rb": [
+        1,
+        1,
+        null
+      ],
+      "/home/michal/RubymineProjects/MiniConf/app/controllers/index_controller.rb": [
+        1,
+        null
+      ],
+      "/home/michal/RubymineProjects/MiniConf/app/models/city.rb": [
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/home/michal/RubymineProjects/MiniConf/app/models/conference.rb": [
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/home/michal/RubymineProjects/MiniConf/app/validators/not_before_now_validator.rb": [
+        1,
+        1,
+        16,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/home/michal/RubymineProjects/MiniConf/app/models/conference_user.rb": [
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        10,
+        0,
+        null,
+        null,
+        null,
+        1,
+        10,
+        1,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/home/michal/RubymineProjects/MiniConf/app/models/country.rb": [
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null
+      ],
+      "/home/michal/RubymineProjects/MiniConf/app/models/place.rb": [
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        63,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/home/michal/RubymineProjects/MiniConf/app/validators/lat_validator.rb": [
+        1,
+        1,
+        null,
+        1,
+        31,
+        null,
+        0,
+        null,
+        null,
+        null
+      ],
+      "/home/michal/RubymineProjects/MiniConf/app/validators/lng_validator.rb": [
+        1,
+        1,
+        null,
+        1,
+        31,
+        null,
+        0,
+        null,
+        null,
+        null
+      ],
+      "/home/michal/RubymineProjects/MiniConf/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/home/michal/RubymineProjects/MiniConf/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/home/michal/RubymineProjects/MiniConf/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/home/michal/RubymineProjects/MiniConf/app/controllers/registrations_controller.rb": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "/home/michal/RubymineProjects/MiniConf/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1490210705
+  }
+}

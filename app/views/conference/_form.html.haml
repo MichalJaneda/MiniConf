@@ -1,0 +1,25 @@
+.col-md-6.col-sm-12
+  = form_for(@conference, url: {action: :create}) do |f|
+
+    - if @conference.errors.any?
+      .alert.alert-danger
+        %ul
+          - @conference.errors.full_messages.each do |msg|
+            %li= msg
+
+    .form-group
+      = f.label :name
+      %br/
+      = f.text_field :name, class: 'form-control'
+
+    .form-group
+      = f.label :starts_at
+      %br/
+      = f.text_field :starts_at, class: 'form-control datetimepicker'
+
+    = f.fields_for :place
+
+.col-md-6.col-sm-12
+  #conference_edit_map
+
+%button.btn.btn-default{type: 'submit', form: 'new_conference'} New conference

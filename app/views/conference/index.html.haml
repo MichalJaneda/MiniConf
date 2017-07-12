@@ -1,0 +1,14 @@
+%h1 Conferences list
+
+= link_to 'New conference', new_conference_path
+
+%table.table.table-hover.table-striped.table-bordered
+
+  %thead
+    %tr
+      %td Name
+      %td Time
+
+  %tbody
+    - @conferences.each do |conference|
+      %tr
